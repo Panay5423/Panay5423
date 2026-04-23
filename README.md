@@ -26,3 +26,6 @@ Currently working with Angular, TypeScript, Node.js and MongoDB.
 ## Goal
 
 To become a solid developer by building real projects consistently.
+## Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
