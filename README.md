@@ -9,7 +9,7 @@ Currently working with Angular, TypeScript, Node.js and MongoDB.
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mongodb,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mongodb,git,github,vscode,postman)
 
 ## Currently Learning
 
