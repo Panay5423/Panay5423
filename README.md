@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/pranay-verma-9830b3272" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
   <a href="https://reddit.com/user/Outside_Brilliant876" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg" alt="Reddit" width="40" height="40" /></a>
   <a href="https://youtube.com/@@pranay821" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" /></a>
-  <a href="mailto:pranayverma821@gmail.com"><img src="https://raw.githubusercontent.com/fillipw/vector-logos/master/logos/google-gmail.svg" alt="Gmail" width="40" height="40" /></a>
+ <a href="mailto:pranayverma821@gmail.com"><img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/gmail.svg" alt="Gmail" width="40" height="40" /></a>
 </p>
 
 # 💻 Tech Stack:
