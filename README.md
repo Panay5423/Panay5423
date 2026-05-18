@@ -7,9 +7,17 @@ I like building web apps and learning how things work behind the scenes.
 
 Currently working with Angular, TypeScript, Node.js and MongoDB.
 
-## Tech Stack
+## 🛠️ Skills & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,mongodb,git,github,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,angular,nodejs,express,mongodb,socketio,electron,cloudflare,vercel,netlify,render,figma,postman,git,github,vscode,notion)
+
+### Technologies I Use
+- C++ • C • JavaScript • TypeScript
+- Angular • AngularJS • Node.js • Express.js
+- MongoDB • Socket.IO • Electron
+- Cloudflare • Render • Vercel • Netlify
+- Figma • Canva • Postman • Notion
+- Git • GitHub • VS Code
 
 ## Currently Learning
 
