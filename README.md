@@ -1,19 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building advanced full-stack projects and scalable backend systems 🚀<br><br>👯 I’m looking to collaborate on  <br>AI projects, startup ideas, and modern web applications<br><br>🤝 I’m looking for help with  <br>System design, cloud scaling, and advanced architecture<br><br>🌱 I’m currently learning  <br>Advanced backend development, system design, cloud technologies, and scalable full-stack architecture<br><br>💬 Ask me about  <br>Node.js, Angular, MongoDB, APIs, backend systems, and full-stack development<br><br>⚡ Fun fact  <br>I love building real-world projects while learning new technologies 😄
 
-
-## 🌐 Socials:
-
-## 🌐 Socials:
-
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://instagram.com/pranay_verma.12" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
-  <a href="https://linkedin.com/in/pranay-verma-9830b3272" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="https://reddit.com/user/Outside_Brilliant876" target="_blank"><img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" height="40" /></a>
-  <a href="https://youtube.com/@@pranay821" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" /></a>
-  <a href="mailto:pranayverma821@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
+  <a href="https://instagram.com/pranay_verma.12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/pranay-verma-9830b3272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://reddit.com/user/Outside_Brilliant876" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://youtube.com/@@pranay821" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:pranayverma821@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 # 💻 Tech Stack:
