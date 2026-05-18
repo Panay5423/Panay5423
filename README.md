@@ -29,12 +29,11 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/render/render-original.svg" alt="Render" width="44" height="44" style="margin-right: 10px; border-radius: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="44" height="44" style="margin-right: 10px; border-radius: 10px;" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blender.svg" alt="Blender" width="44" height="44" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="Blender" width="44" height="44" style="margin-right: 10px; border-radius: 10px;" />
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/notion.svg" alt="Notion" width="44" height="44" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/steam.svg" alt="Steam" width="44" height="44" style="margin-right: 10px;" />
   <img src="https://api.iconify.design/simple-icons:battledotnet.svg?color=%2300aeff" alt="Battle.net" width="44" height="44" style="margin-right: 10px;" />
 </p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Panay5423&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Panay5423&theme=dark&hide_border=false)<br/>
